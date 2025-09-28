@@ -1,5 +1,14 @@
-<HTML>
-<BODY>
-<H1>hELLO</H1>
-</BODY>
-</HTML>
+<html>
+	<body bgcolor = "#46B970">
+	<h1 align="center">MOJA STRONA</h1>
+	<h2 align="center">Zadanie 6</h2>
+
+	<ul>
+		<ol>MENU</ol>
+		<ol><a href="http://www.onet.pl">ONET</a></ol>
+		<ol><a href="http://www.uafm.edu.pl">Uczelnia</a></ol>
+	</ul>
+	<img src="jamnik.png" alt="Piesiek" width="40%" height="50%"></img>
+	
+	</body>
+</html>
